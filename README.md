@@ -1,2 +1,2 @@
-# crescendo.github.io
-Crescendo 2018
+#Crescendo 2018
+(c) Students' Council 2017-2018
